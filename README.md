@@ -2,7 +2,6 @@
 - 👀 I’m interested in Coding, Developing web and android applications
 - 🌱 I’m currently learning Full Stack development using NODEJS
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me - mail me at nandita97pd@gmail.com
 
 <!---
 tomboy97/tomboy97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
